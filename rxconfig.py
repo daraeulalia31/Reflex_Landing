@@ -21,12 +21,12 @@ precios justos"
             rx.vstack(
                 rx.hstack(
                     rx.link(
-                        rx.button("Registrate aqui!",color_scheme="Blue"),
+                        rx.button("Registrate aqui!",color_scheme="Purple"),
                         href="https://forms.gle/Gj2CstmbZuhy1V2c9",
                         is_external=True,
                     ),
                     rx.link(
-                        rx.button("categoria",color_scheme="White"),
+                        rx.button("categoria",color_scheme="Purple"),
                         href="https://forms.gle/Gj2CstmbZuhy1V2c9",
                         is_external=True,
                     ),
@@ -41,9 +41,9 @@ precios justos"
                         is_external=True,
                     ),
                 ),
-                rx.image(src="https://centrocomerciallaballena.com/wp-content/uploads/2024/05/IMG_7570.jpeg"),
-                rx.image(src="https://lh5.googleusercontent.com/proxy/9Tb-iVp9C7PanjXVf8gUSUrFGkU5CecYCWffvRHBN7KD6vEyx9cirdQ15ncAAi2eGF5FMpD8mWoRa2cWYCdP9PsUosQrSdpB62wcPMkF0fIEC26R4A4GZfIg3VnZoupiQNfZng"),
-                rx.image(src="https://s.yimg.com/ny/api/res/1.2/w.3a9oZ1c6iq0OgAWcmBMg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MA--/https://o.aolcdn.com/images/dar/5845cadfecd996e0372f/00903991c0317ca54a58a4c25779ac69a4d57787/aHR0cDovL28uYW9sY2RuLmNvbS9oc3Mvc3RvcmFnZS9taWRhcy9mZjRlZTI1M2M1ZGU0YTJhN2QyOGM3MWMwOGRkYmFkOS8yMDM3MjExMzQvY29tcHV0ZXIrc3RvcmUucG5n"),
+                rx.image(src="https://mandolina.co/wp-content/uploads/2022/08/Panaderia-y-reposteria-dulce-02.png"),
+                rx.image(src="https://www.ceac.es/sites/default/files/2019-08/ceac-27-03-2019-reposteria.jpg.webp"),
+                rx.image(src="https://mandolina.co/wp-content/uploads/2022/08/Panaderia-y-reposteria-dulce-03.png"),
             ),
             spacing="5",
             justify="center",
